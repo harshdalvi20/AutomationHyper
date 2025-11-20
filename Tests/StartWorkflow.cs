@@ -66,7 +66,7 @@ namespace HyperspectralAutomation.Tests
 		[Test, Order(4)]
 		public void TestPatientRegistration()
 		{
-			// Fill patient details from JSON
+			// Fill patient details from JSONs
 			PatientRegHelper.FillPatientDetails(driver, wait);
 		}
 
