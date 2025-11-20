@@ -49,7 +49,7 @@ namespace HyperspectralAutomation.Utils
 
 			if (filePath == null)
 			{
-				throw new FileNotFoundException($"❌ Patient data file not found: {fileName}\n" +
+				throw new FileNotFoundException($"❌ Patient data file not found  {fileName}\n" +
 					"Checked: working dir, Config folder, BaseDirectory");
 			}
 
