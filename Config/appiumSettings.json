@@ -1,0 +1,11 @@
+{
+	"AppiumServerUrl": "http://127.0.0.1:4723/",
+	"PlatformName": "Android",
+	"DeviceName": "emulator-5554",
+	"AutomationName": "UiAutomator2",
+	"AppPackage": "com.iprd.anc.nigeriaoyo",
+	"AppActivity": "com.iprd.anc.nigeriaoyo.ui.features.login.LoginActivity",
+	"AutoGrantPermissions": true,
+	"UiAutomator2ServerInstallTimeout": 60000,
+	"ImplicitWaitSeconds": 10
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <TEST_LOGIN_USERNAME_HYPER>your-username</TEST_LOGIN_USERNAME_HYPER>
+      <TEST_LOGIN_PASSWORD_HYPER>your-password</TEST_LOGIN_PASSWORD_HYPER>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>
